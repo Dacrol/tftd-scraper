@@ -1,1 +1,1 @@
-totd-scraper
+Scrape thoughts for the day
