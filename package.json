@@ -1,9 +1,13 @@
 {
-  "name": "totd-scraper",
+  "name": "tftd-scraper",
   "version": "0.0.0",
   "main": "scrape.js",
   "repository": "git@github.com:Dacrol/totd-scraper.git",
   "author": "Jonas Ahrens <jonas.ahrens@gmail.com>",
   "license": "UNLICENSED",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3"
+  }
 }
