@@ -1,0 +1,9 @@
+{
+  "name": "totd-scraper",
+  "version": "0.0.0",
+  "main": "scrape.js",
+  "repository": "git@github.com:Dacrol/totd-scraper.git",
+  "author": "Jonas Ahrens <jonas.ahrens@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true
+}
